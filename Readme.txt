@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+TokoCoding - Solusi Digital Untuk Meningkatkan Produktivitas Anda
+Solusi Digital Untuk Meningkatkan Produktivitas Anda
+TokoCoding adalah suatu ekosistem yang mencakup berbagai aplikasi yang dirancang untuk meningkatkan produktivitas pengguna sehari-hari.
 
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
+Special Thanks For :
 License: https://bootstrapmade.com/license/
